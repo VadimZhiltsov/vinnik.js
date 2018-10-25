@@ -3,5 +3,5 @@ function isVinnikCool() {
 }
 
 module.export = {
-  isVinnikCool: isVinnikCool
+  isVinnikCool,
 }
