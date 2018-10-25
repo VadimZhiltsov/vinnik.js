@@ -3,9 +3,10 @@ function isVinnikCool() {
 }
 
 function Nino() {
-  return "Mne ne vsyo ravno";
+  return 'Mne ne vsyo ravno';
 }
 
 module.export = {
   isVinnikCool,
+  Nino,
 };
