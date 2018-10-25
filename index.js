@@ -2,6 +2,10 @@ function isVinnikCool() {
   return true;
 }
 
+function Nino() {
+    return 'Mne ne vsyo ravno';
+}
+
 function getVinnikImage() {
   return `                                                                                                   
                                                    ....                                            
@@ -56,5 +60,6 @@ function getVinnikImage() {
 
 module.export = {
   isVinnikCool,
+  Nino,
   getVinnikImage,
 };
