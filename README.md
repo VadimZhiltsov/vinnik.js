@@ -14,5 +14,7 @@ npm install vinnik.js --save
 ```
 const vinnik = require('vinnik');
 
-vinnik.isVinnikCool()
+vinnik.isVinnikCool(); 
+
+vinnik.getVinnikImage();
 ```
