@@ -1,0 +1,19 @@
+{
+  "name": "vinnik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadimZhiltsov/vinnik.js.git"
+  },
+  "author": "Oleg Vinnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadimZhiltsov/vinnik.js/issues"
+  },
+  "homepage": "https://github.com/VadimZhiltsov/vinnik.js#readme"
+}
