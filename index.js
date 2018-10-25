@@ -56,4 +56,5 @@ function getVinnikImage() {
 
 module.export = {
   isVinnikCool,
+  getVinnikImage,
 };
