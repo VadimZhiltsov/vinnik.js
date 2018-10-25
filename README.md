@@ -18,3 +18,11 @@ vinnik.isVinnikCool();
 
 vinnik.getVinnikImage();
 ```
+
+#Change log
+- 2.0.0
+ - add `getVinnikImage` function
+ - TODO: add migration guide
+- 1.0.0
+ - amazing lib to the world
+ 
