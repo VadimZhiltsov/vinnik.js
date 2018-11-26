@@ -11,7 +11,7 @@
     "url": "git+https://github.com/VadimZhiltsov/vinnik.js.git"
   },
   "author": "Oleg Vinnik",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VadimZhiltsov/vinnik.js/issues"
   },
